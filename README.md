@@ -23,6 +23,7 @@
 {"stockData":[{"stock":"MSFT","price":"62.30","rel_likes":-1},{"stock":"GOOG","price":"786.90","rel_likes":1}]}
 
 <h2>Live Example</h2>
+
 [https://fcc-stock-price-project.glitch.me](https://fcc-stock-price-project.glitch.me)
 
 
